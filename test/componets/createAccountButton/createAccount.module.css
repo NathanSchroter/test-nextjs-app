@@ -1,0 +1,14 @@
+.createAccount{
+    border-color: rgb(51, 54, 57);
+    background-color: blue;
+    max-width: 380px;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    border-radius: 50px;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
